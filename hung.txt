@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hung 1
 lan 2
 lan 3
+=======
+hung 1
+>>>>>>> parent of 0451a4b... cap nhat lan 2
